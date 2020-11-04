@@ -1,0 +1,44 @@
+//määritetään ledit
+int led1 = D6;
+int led2 = D7;
+
+void setup()
+//määritellään ledin toiminto ohjelmistossa
+{
+
+   pinMode(led1, OUTPUT);
+   pinMode(led2, OUTPUT);
+
+   Particle.function("led",ledToggle);
+
+   digitalWrite(led1, LOW);
+
+   digitalWrite(led2, LOW);
+
+}
+
+
+void loop()
+
+{
+
+
+}
+// tehdään on/of if lause
+int ledToggle(String command) {
+
+    if (command=="on") {
+// jos käsky on "on" ledi palaa
+        digitalWrite(led1,HIGH);
+        digitalWrite(led2,HIGH);
+        return 1;
+    } // jos käsky on "off2 ledi sammuu
+    else if (command=="off") {
+        digitalWrite(led1,LOW);
+        digitalWrite(led2,LOW);
+        return 0;
+    } // jos ei kumpaakaan ledi on sammunut
+    else {
+        return -1;
+    }
+}

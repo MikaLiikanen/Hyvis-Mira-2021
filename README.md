@@ -29,4 +29,4 @@ Yht | xx
 
 
 
-[Povered by salpauksen hyvikset ](https://www.salpaus.fi/)
+[Povered by Salpauksen Hyvikset ](https://www.salpaus.fi/)

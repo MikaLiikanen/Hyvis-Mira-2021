@@ -1,8 +1,8 @@
 # Lämpötilamittari
 
 ## Kehitystiimi
-1. Mika
-2. Nimi
+1. Mika Liikanen
+2. Elina Kamunen
 
 ## Asiakaskertomus
 

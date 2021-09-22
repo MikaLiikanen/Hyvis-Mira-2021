@@ -22,7 +22,7 @@ Sisältö   | Sisältö
 ## Tuntikirjanpito
 Päivä | Aika | Tehtävä
 ------|------|-------
-xx    |  xx  |   
+xx    |  xx  |   xx
 Yht | xx
 
 

@@ -35,7 +35,7 @@ Vastuksen värit ovat punainen, punainen, musta, musta ja ruskea.
 
 
 ## Komponenttilista
-Osa      | Hinta
+Osa       | Hinta
 ----------|--------
 Photoni   | 28,90€
 Ledi      | 0,70€

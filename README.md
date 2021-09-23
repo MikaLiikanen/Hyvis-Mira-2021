@@ -31,7 +31,7 @@ Ledi saa virran photonin kautta tietokoneen usb-portin kautta
 Vastuksen värit ovat punainen, punainen, musta, musta ja ruskea.
 
 Piirikaavio
-
+! (https://github.com/MikaLiikanen/Hyvis-Mira-2021/blob/main/Piirikaavio.jpg)  
 
 
 

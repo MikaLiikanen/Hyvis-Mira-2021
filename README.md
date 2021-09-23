@@ -22,13 +22,18 @@ Sisältö   | Sisältö
 ## Tuntikirjanpito
 Päivä | Aika | Tehtävä
 ------|------|-------
-xx    |  xx  |   xx
-Yht | xx
+23.09.2021    |  1H  |   Projekti 1 Ledi
+Yht | 1H
 
 
 # Projekti 1 Ledi
 Ledi saa virran photonin kautta tietokoneen usb-portin kautta
 Vastuksen värit ovat punainen, punainen, musta, musta ja ruskea.
+
+Piirikaavio
+
+
+
 
 ## Komponenttilista
 Osa      | Hinta

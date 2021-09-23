@@ -26,6 +26,16 @@ xx    |  xx  |   xx
 Yht | xx
 
 
+# Projekti 1 Ledi
+Ledi saa virran photonin kautta tietokoneen usb-portin kautta
+Vastuksen värit ovat punainen, punainen, musta, musta ja ruskea.
+
+## Komponenttilista
+Osa      | Hinta
+----------|--------
+Photoni   | 28,90€
+Ledi      | 0,70€
+Vastus    | 0,25€
 
 
 

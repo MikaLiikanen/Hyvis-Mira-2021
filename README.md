@@ -27,7 +27,7 @@ Yht         |   1H    |
 
 
 # Projekti 1 Ledi
-Ledi saa virran photonin kautta tietokoneen usb-portin kautta
+Ledi saa virran photonin kautta tietokoneen usb-portin kautta. <br>
 Vastuksen värit ovat punainen, punainen, musta, musta ja ruskea.
 
 ![Piirikaavio](https://github.com/MikaLiikanen/Hyvis-Mira-2021/blob/main/Piirikaavio.jpg)

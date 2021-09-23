@@ -20,10 +20,11 @@ Sisältö   | Sisältö
 
 
 ## Tuntikirjanpito
-Päivä | Aika | Tehtävä
-------|------|-------
-23.09.2021    |  1H  |   Projekti 1 Ledi
-Yht | 1H
+Päivä       |  Aika   |  Tehtävä
+------------|---------|------------------
+23.09.2021  |   1H    |  Projekti 1 Ledi
+------------|---------|------------------
+Yht         |   1H    |
 
 
 # Projekti 1 Ledi
